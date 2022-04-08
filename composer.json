@@ -1,0 +1,16 @@
+{
+    "name": "hello-world/hello-world",
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\HelloWorld\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "HelloWorld\\HelloWorld\\HelloWorldServiceProvider"
+            ]
+        }
+    },
+    "require": {}
+}

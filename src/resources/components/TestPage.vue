@@ -5,7 +5,7 @@
     </div>
 </template>
 <script>
-import axios from "axios"
+import 'bootstrap/dist/css/bootstrap.min.css';
 export default {
     methods: {
         cat()

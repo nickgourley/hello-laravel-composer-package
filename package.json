@@ -1,0 +1,23 @@
+{
+  "name": "hello-laravel-composer-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickgourley/hello-laravel-composer-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickgourley/hello-laravel-composer-package/issues"
+  },
+  "homepage": "https://github.com/nickgourley/hello-laravel-composer-package#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
